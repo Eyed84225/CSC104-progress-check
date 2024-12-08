@@ -1,0 +1,43 @@
+header{
+    text-align: center;
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+h2{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+nav{
+    text-align: center;
+}
+a{
+    padding-left: 50px;
+    padding-right: 50px;
+    text-decoration: none;
+}
+table{
+    width: 100%;
+    height: 100px;
+    border: 1px solid black;
+    /* collapes the border so they don't stack */
+    border-collapse: collapse;
+    text-align: center;
+}
+th{
+    text-align: center;
+    border: 1px solid black;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+td{
+    border: 1px solid black;
+    text-align: center;
+
+}
+footer{
+    text-align: center;
+}
+body{
+    background-color: rgb(212, 221, 245);        
+}
